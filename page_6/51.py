@@ -1,6 +1,6 @@
 # 方法一：
 
-print sorted(L,reverse=True)
+print sorted(L,reverse = True)
 
 
 # 方法二：
