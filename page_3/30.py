@@ -1,0 +1,3 @@
+# 草
+
+print 'Happy'
