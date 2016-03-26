@@ -1,2 +1,2 @@
 # ChallengePython
-刷Python题
+刷PythonTip的题
