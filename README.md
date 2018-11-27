@@ -1,2 +1,2 @@
 # ChallengePython
-刷PythonTip的题
+PythonTip刷题记录
